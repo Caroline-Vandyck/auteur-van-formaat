@@ -1,6 +1,6 @@
 ## Een auteur van formaat <br> Een attributie-onderzoek naar het oeuvre van de Limborch-dichter
 
-**Cite this article as**
+**Cite the article as**
 <br>&emsp;&emsp;Vandyck, Caroline, and Mike Kestemont. ‘Een auteur van formaat. Een attributie-onderzoek naar het oeuvre van de <i>Limborch</i>-dichter’. <i>Spiegel Der Letteren</i>, 2, 2024.
 
 **Cite the code as**

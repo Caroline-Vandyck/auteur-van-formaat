@@ -12,7 +12,7 @@ The Middle Dutch *Roman van Heinric en Margriete van Limborch* was highly popula
 
 **Repository**
 
-This repository contains all code and data necessary to reproduce the analysis described in the article. The data originates from the [*Cd-Rom Middelnederlands*](http://hdl.handle.net/10032/tm-a2-f5) (1998) which is now known and available under the name [*Corpus Middle Dutch*](http://hdl.handle.net/10032/tm-a2-j6) (2021). The scatterplot that is created in the notebook called 'authorship' can be found in the map called 'data'. With each iteration of the code, the plot will differ slightly.
+This repository contains all code and data necessary to reproduce the analysis described in the article. The data originates from the [*Cd-Rom Middelnederlands*](http://hdl.handle.net/10032/tm-a2-f5) (1998) which is now known and available under the name [*Corpus Middle Dutch*](http://hdl.handle.net/10032/tm-a2-j6) (2021). The scatterplot that is created in the notebook called 'authorship' can be found in the map called 'figures'. With each iteration of the code, the plot will differ slightly.
 
 **References**
 <br>&emsp;&emsp;INT. *Cd-Rom Middelnederlands*. 1.0, Dutch Language Institute, 1998, http://hdl.handle.net/10032/tm-a2-f5.

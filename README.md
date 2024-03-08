@@ -5,6 +5,7 @@
 
 **Cite the code as**
 <br>&emsp;&emsp;DOI: 10.5281/zenodo.10797682
+
 **Abstract**
 
 The Middle Dutch *Roman van Heinric en Margriete van Limborch* was highly popular with the medieval audience. Although the work didn’t lose sight of existing traditions, it was innovative and written by a skillful and experienced author, who probably wrote other works as well. In the past, scholars have tried to link the *Limborch* to other texts and thus establish a oeuvre, although the research into the matter has stalled in recent decades. We attempt to reopen the authorial issue, using quantitative means. Using methods from the field of computational authorship verification, we will establish that the author of the Limborch can at least be identified with the *Lorreinen II*-poet. In addition, we argue that this individual also authored the *Brabantine Rose* and (shortened) *Cassamus*, as previous research had already suggested. Finally, we add two more works to this oeuvre, which have never before been linked to the *Limborch*: the *Borchgravinne van Vergi* and *Roman van Caesar*.
